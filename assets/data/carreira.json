@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "title": "Arthur Rodrigues | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Sarah Lima",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Arthur Rodrigues",
+    "headline": "Desenvolvedor Fullstack, Dados & RPA.",
+    "photo": "assets/images/Perfil-foto.png",
+    "photoAlt": "Foto profissional do Arthur Rodrigues",
+    "summary": "Tenho experiência em desenvolvimento de software, análise de dados e automação de processos (RPA). Ao longo da minha trajetória, participei de projetos conduzidos com a metodologia Scrum, atuando tanto como Product Owner quanto como Desenvolvedor Full Stack.  Abaixo, compartilho meu plano de carreira, estruturado com o objetivo de alcançar a posição de Tech Lead, unindo minha sólida base técnica à minha paixão por liderança, estratégia e desenvolvimento de equipes. Cada etapa representa um passo na construção de uma trajetória focada em gerar impacto por meio da tecnologia, promovendo inovação e valor.",
+    "cvUrl": "#"
+  },
+  "contacts": [
+  {
+    "label": "Email",
+    "url": "mailto:sousaarthur140@gmail.com",
+    "icon": "fa-solid fa-envelope"
+  },
+  {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/arthursrodriguess",
+    "icon": "fa-brands fa-linkedin"
+  },
+  {
+    "label": "GitHub",
+    "url": "https://github.com/arodriguesdev21",
+    "icon": "fa-brands fa-github"
+  }
+],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedor Fullstack",
+      "description": "Desenvolvimento de aplicações front-end e back-end, integração de APIs, bancos de dados e arquitetura de sistemas.",
+      "softSkills": [
+        "Resolução de Problemas – analisar desafios técnicos e encontrar soluções eficientes.",
+        "Comunicação – alinhar requisitos com equipes técnicas e de negócio.",
+        "Adaptabilidade – aprender rapidamente novas tecnologias e se ajustar a mudanças de projeto."
+      ],
+      "roadmap": [
+        "HTML e CSS",
+        "React",
+        "Java",
+        "Git e Github",
+        "SQL"
+      ]
+    },
+    {
+      "title": "Tech Lead",
+      "description": "Liderança técnica de times de desenvolvimento, conectando estratégia de negócio, arquitetura de software e boas práticas de engenharia.",
+      "softSkills": [
+        "Liderança – orientar o time, tomar decisões e desenvolver pessoas.",
+        "Comunicação estratégica – traduzir necessidades de negócio em soluções técnicas.",
+        "Gestão de conflitos e tomada de decisão – equilibrar prazos, qualidade e prioridades."
+      ],
+      "roadmap": [
+        "Design Patterns",
+        "Frameworks",
+        "Arquitetura de software",
+        "Segurança",
+        "Tecnologias Cloud"
+      ]
+    },
+    {
+      "title": "Gerente de TI",
+      "description": "Gestão estratégica de tecnologia, alinhando pessoas, processos e soluções digitais aos objetivos do negócio.",
+      "softSkills": [
+        "Liderança estratégica – desenvolver equipes, definir direcionamentos e criar uma visão de longo prazo.",
+        "Gestão de pessoas – contratar, desenvolver talentos e promover uma cultura de alta performance.",
+        "Visão de negócio – conectar tecnologia, custos, riscos e resultados organizacionais."
+      ],
+      "roadmap": [
+        "Scrum",
+        "KPIS",
+        "Arquitetura de soluções",
+        "Compliance"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 90
+        },
+        {
+          "name": "React",
+          "level": 65
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 70
+        },
+        {
+          "name": "Java",
+          "level": 70
+        },
+        {
+          "name": "SQL",
+          "level": 70
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Versionamento",
+    "Code Review",
+    "Excel & Powerbi",
+    "RPA",
+    "Documentação",
+    "Prototipagem",
+    "Análise de negócio"
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Avançado"
+    }
+  ]
+}
